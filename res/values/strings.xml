@@ -1115,4 +1115,10 @@ CHAR LIMIT = NONE] -->
         <item quantity="one">%1$d photo</item>
         <item quantity="other">%1$d photos</item>
     </plurals>
+    
+    <!-- DRM strings -->
+    <string name="no_permission_for_drm">"Sorry, Drm file can not be shared"</string>
+    <string name="drm_license_info">Drm license info</string>
+    <string name="mimetype_not_supported">This file can not be played</string>
+    <string name="action_consumes_rights">Rights will be consumed for playing this media</string>
 </resources>
